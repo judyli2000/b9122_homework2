@@ -4,7 +4,7 @@
 # In[1]:
 
 
-# 1.Extract United Nations press releases containing “crisis”:
+# 1. Extract United Nations press releases containing “crisis”:
 
 import requests
 from bs4 import BeautifulSoup
